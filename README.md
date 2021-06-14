@@ -27,7 +27,8 @@ Tu nave espacial recibió una llamada de rescate de una colonia minera en un pla
 1.7. Arte
 Estilo pixel-art minimalista con colores vivos, en 2D con vista top down. A continuación muestro un mockup del estilo artístico que se busca.
 
- 
+ ![image](https://user-images.githubusercontent.com/83043304/121922515-6d308800-cd10-11eb-8269-b03745fc7456.png)
+
 
 1.8. Música 
 Música chiptune acorde al ambiente espacial y al estilo retro del juego.
