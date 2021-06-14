@@ -3,7 +3,8 @@ Trabajo Final para Programacion III - Universidad Nacional del Litoral
 
 1. Visión General
 
-1.1. Un Renglón 
+1.1. Un Renglón
+
 Juego de disparos run & gun  con una perspectiva top-down
 
 1.2. Un Párrafo
