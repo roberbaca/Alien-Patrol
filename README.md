@@ -42,7 +42,7 @@ Música chiptune acorde al ambiente espacial y al estilo retro del juego.
 
 2. Gameplay 
 
-4.1. Objetivos: los objetivos principales que deberá cumplir el jugador son:
+2.1. Objetivos: los objetivos principales que deberá cumplir el jugador son:
 
 2.1.1. Objetivo 1: Rescatar los colonos.
 
@@ -56,11 +56,11 @@ Disponemos a su vez de una pistola para defendernos de los distintos tipos de mo
 
 2.3. Elementos más importantes del Gameplay
 
-2.4.1. Elemento 1: Protagonista (player). Es un astronauta que puede destruir enemigos con su cañón laser.
+2.3.1. Elemento 1: Protagonista (player). Es un astronauta que puede destruir enemigos con su cañón laser.
 
-2.4.2. Elemento 2: Colonos. Debemos localizarlos en cada nivel y rescatarlos.
+2.3.2. Elemento 2: Colonos. Debemos localizarlos en cada nivel y rescatarlos.
  
-2.4.3. Elemento 3: Enemigos. Con distintos patrones de movimiento y ataque intentaran eliminarnos.
+2.3.3. Elemento 3: Enemigos. Con distintos patrones de movimiento y ataque intentaran eliminarnos.
 
 2.4. Justificación
 
